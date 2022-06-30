@@ -1,0 +1,7 @@
+{
+    "Admin": true,
+    "File": true,
+    "Enroll": true,
+    "Doctor": true,
+    "Front": true
+}
